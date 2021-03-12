@@ -82,8 +82,8 @@ cube4.scale.z = .5;
 
 // // AXES helper 
 
-const axesHelper = new THREE.AxesHelper();
-scene.add(axesHelper);
+//const axesHelper = new THREE.AxesHelper();
+//scene.add(axesHelper);
 // sizes
 
 const sizes = {
